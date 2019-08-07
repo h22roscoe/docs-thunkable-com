@@ -45,7 +45,8 @@ Step 3. Depending on if you are adding icons or labels, select the screen you wo
 **Additional descriptions are below:**
 
 * **Tab Bar Label** -- The name of your tab label ****
-* **Active Tab Icon** -- Icon that appears when tab is selected; You can upload an image for this icon.Inactive Tab Icon -- Icon that appears when tab is not selected; You can upload an image for this icon.
+* **Active Tab Icon** -- Icon that appears when tab is selected; You can upload an image for this icon.
+* **Inactive Tab Icon** -- Icon that appears when tab is not selected; You can upload an image for this icon.
 
 ## **Bottom Tab Navigator Visibility**
 
